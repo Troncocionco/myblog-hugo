@@ -1,7 +1,7 @@
 +++
 title = "Aruba ACNT - Chapter 1"
 description = "ACNT certification notes"
-date = 2022/09/12
+date = 2022-09-12
 author = "Giacomino"
 +++
 
