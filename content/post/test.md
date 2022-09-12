@@ -1,3 +1,9 @@
++++
+title = "Aruba ACNT - Chapter 1"
+description = "ACNT certification notes"
+author = "Giacomino"
++++
+
 # Aruba - ACNT
 
 Endpoint // Networking Devices
